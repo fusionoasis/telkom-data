@@ -1,10 +1,35 @@
 [
-    { "p_rel_url": "fusionoasis/telkom-data/main/data/tower_locations/part-00000-tid.csv", "p_sink_file": "part-00000-tid.csv" },
-    { "p_rel_url": "fusionoasis/telkom-data/main/data/tower_locations/part-00001-tid.csv", "p_sink_file": "part-00001-tid.csv" },
-    { "p_rel_url": "fusionoasis/telkom-data/main/data/tower_locations/part-00002-tid.csv", "p_sink_file": "part-00002-tid.csv" },
-    { "p_rel_url": "fusionoasis/telkom-data/main/data/tower_locations/part-00003-tid.csv", "p_sink_file": "part-00003-tid.csv" },
-    { "p_rel_url": "fusionoasis/telkom-data/main/data/tower_locations/part-00004-tid.csv", "p_sink_file": "part-00004-tid.csv" },
-    { "p_rel_url": "fusionoasis/telkom-data/main/data/tower_locations/part-00005-tid.csv", "p_sink_file": "part-00005-tid.csv" },
-    { "p_rel_url": "fusionoasis/telkom-data/main/data/tower_locations/part-00006-tid.csv", "p_sink_file": "part-00006-tid.csv" },
-    { "p_rel_url": "fusionoasis/telkom-data/main/data/tower_locations/part-00007-tid.csv", "p_sink_file": "part-00007-tid.csv" }
+    {
+        "p_rel_url" : "fusionoasis/telkom-data/blob/main/data/tower_locations/part-00000-tid.csv",
+        "p_sink_file" : "part-00000-tid.csv"
+    },
+    {
+        "p_rel_url" : "fusionoasis/telkom-data/blob/main/data/tower_locations/part-00001-tid.csv",
+        "p_sink_file" : "part-00001-tid.csv"
+    },
+    {
+        "p_rel_url" : "fusionoasis/telkom-data/blob/main/data/tower_locations/part-00002-tid.csv",
+        "p_sink_file" : "part-00002-tid.csv"
+    },
+    {
+        "p_rel_url" : "fusionoasis/telkom-data/blob/main/data/tower_locations/part-00003-tid.csv",
+        "p_sink_file" : "part-00003-tid.csv"
+    },
+    {
+        "p_rel_url" : "fusionoasis/telkom-data/blob/main/data/tower_locations/part-00004-tid.csv",
+        "p_sink_file" : "part-00004-tid.csv"
+    },
+    {
+        "p_rel_url" : "fusionoasis/telkom-data/blob/main/data/tower_locations/part-00005-tid.csv",
+        "p_sink_file" : "part-00005-tid.csv"
+    },
+    {
+        "p_rel_url" : "fusionoasis/telkom-data/blob/main/data/tower_locations/part-00006-tid.csv",
+        "p_sink_file" : "part-00006-tid.csv"
+    },
+    {
+        "p_rel_url" : "fusionoasis/telkom-data/blob/main/data/tower_locations/part-00007-tid.csv",
+        "p_sink_file" : "part-00007-tid.csv"
+    }
+
 ]
