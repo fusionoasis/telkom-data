@@ -6,5 +6,17 @@
     {
         "p_rel_url": "fusionoasis/telkom-data/blob/main/data/weather_data/part-00001-tid.parquet",
         "p_sink_file": "part-00001-tid.parquet"
+    },
+    {
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/weather_data/part-00002-tid.parquet",
+        "p_sink_file": "part-00002-tid.parquet"
+    },
+    {
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/weather_data/part-00003-tid.parquet",
+        "p_sink_file": "part-00003-tid.parquet"
+    },
+    {
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/weather_data/part-00004-tid.parquet",
+        "p_sink_file": "part-00004-tid.parquet"
     }
 ]
