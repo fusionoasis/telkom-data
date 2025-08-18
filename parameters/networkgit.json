@@ -1,162 +1,130 @@
 [
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00000-tid.json",
-        "p_sink_file": "part-00000-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00040-tid.json",
+        "p_sink_file": "part-00040-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00001-tid.json",
-        "p_sink_file": "part-00001-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00041-tid.json",
+        "p_sink_file": "part-00041-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00002-tid.json",
-        "p_sink_file": "part-00002-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00042-tid.json",
+        "p_sink_file": "part-00042-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00003-tid.json",
-        "p_sink_file": "part-00003-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00043-tid.json",
+        "p_sink_file": "part-00043-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00004-tid.json",
-        "p_sink_file": "part-00004-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00044-tid.json",
+        "p_sink_file": "part-00044-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00005-tid.json",
-        "p_sink_file": "part-00005-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00045-tid.json",
+        "p_sink_file": "part-00045-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00006-tid.json",
-        "p_sink_file": "part-00006-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00046-tid.json",
+        "p_sink_file": "part-00046-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00007-tid.json",
-        "p_sink_file": "part-00007-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00047-tid.json",
+        "p_sink_file": "part-00047-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00008-tid.json",
-        "p_sink_file": "part-00008-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00048-tid.json",
+        "p_sink_file": "part-00048-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00009-tid.json",
-        "p_sink_file": "part-00009-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00049-tid.json",
+        "p_sink_file": "part-00049-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00010-tid.json",
-        "p_sink_file": "part-00010-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00050-tid.json",
+        "p_sink_file": "part-00050-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00011-tid.json",
-        "p_sink_file": "part-00011-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00051-tid.json",
+        "p_sink_file": "part-00051-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00012-tid.json",
-        "p_sink_file": "part-00012-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00052-tid.json",
+        "p_sink_file": "part-00052-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00013-tid.json",
-        "p_sink_file": "part-00013-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00053-tid.json",
+        "p_sink_file": "part-00053-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00014-tid.json",
-        "p_sink_file": "part-00014-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00054-tid.json",
+        "p_sink_file": "part-00054-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00015-tid.json",
-        "p_sink_file": "part-00015-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00055-tid.json",
+        "p_sink_file": "part-00055-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00016-tid.json",
-        "p_sink_file": "part-00016-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00056-tid.json",
+        "p_sink_file": "part-00056-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00017-tid.json",
-        "p_sink_file": "part-00017-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00057-tid.json",
+        "p_sink_file": "part-00057-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00018-tid.json",
-        "p_sink_file": "part-00018-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00058-tid.json",
+        "p_sink_file": "part-00058-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00019-tid.json",
-        "p_sink_file": "part-00019-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00059-tid.json",
+        "p_sink_file": "part-00059-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00020-tid.json",
-        "p_sink_file": "part-00020-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00060-tid.json",
+        "p_sink_file": "part-00060-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00021-tid.json",
-        "p_sink_file": "part-00021-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00061-tid.json",
+        "p_sink_file": "part-00061-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00022-tid.json",
-        "p_sink_file": "part-00022-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00062-tid.json",
+        "p_sink_file": "part-00062-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00023-tid.json",
-        "p_sink_file": "part-00023-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00063-tid.json",
+        "p_sink_file": "part-00063-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00024-tid.json",
-        "p_sink_file": "part-00024-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00064-tid.json",
+        "p_sink_file": "part-00064-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00025-tid.json",
-        "p_sink_file": "part-00025-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00065-tid.json",
+        "p_sink_file": "part-00065-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00026-tid.json",
-        "p_sink_file": "part-00026-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00066-tid.json",
+        "p_sink_file": "part-00066-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00027-tid.json",
-        "p_sink_file": "part-00027-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00067-tid.json",
+        "p_sink_file": "part-00067-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00028-tid.json",
-        "p_sink_file": "part-00028-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00068-tid.json",
+        "p_sink_file": "part-00068-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00029-tid.json",
-        "p_sink_file": "part-00029-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00069-tid.json",
+        "p_sink_file": "part-00069-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00030-tid.json",
-        "p_sink_file": "part-00030-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00070-tid.json",
+        "p_sink_file": "part-00070-tid.json"
     },
     {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00031-tid.json",
-        "p_sink_file": "part-00031-tid.json"
-    },
-    {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00032-tid.json",
-        "p_sink_file": "part-00032-tid.json"
-    },
-    {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00033-tid.json",
-        "p_sink_file": "part-00033-tid.json"
-    },
-    {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00034-tid.json",
-        "p_sink_file": "part-00034-tid.json"
-    },
-    {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00035-tid.json",
-        "p_sink_file": "part-00035-tid.json"
-    },
-    {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00036-tid.json",
-        "p_sink_file": "part-00036-tid.json"
-    },
-    {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00037-tid.json",
-        "p_sink_file": "part-00037-tid.json"
-    },
-    {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00038-tid.json",
-        "p_sink_file": "part-00038-tid.json"
-    },
-    {
-        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00039-tid.json",
-        "p_sink_file": "part-00039-tid.json"
+        "p_rel_url": "fusionoasis/telkom-data/blob/main/data/network_logs/part-00071-tid.json",
+        "p_sink_file": "part-00071-tid.json"
     }
 ]
